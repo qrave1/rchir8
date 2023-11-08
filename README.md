@@ -7,8 +7,8 @@
 ```
 
 ```http request
-GET localhost:8080/api/
-POST localhost:8080/api/
+GET localhost:80/api/
+POST localhost:80/api/
 ```
 
 
